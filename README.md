@@ -40,5 +40,19 @@ Create a lightweight UI so users can upload an image and get a prediction (Real 
 
 ---
 
+## Collaboration
+
+This project was developed in collaboration with a teammate.  
+My primary contributions included:
+
+- Designing and training the CNN architecture in TensorFlow/Keras  
+- Building the image preprocessing pipeline with OpenCV  
+- Documenting the process  
+- Saving and preparing the model for future deployment
+
+The project was developed jointly, with shared responsibilities across data preparation, experimentation, and documentation.
+
+---
+
 ### 2) Improve performance with hyperparameter tuning
 Focus on improving generalization and accuracy beyond the baseline CNN.
