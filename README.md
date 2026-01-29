@@ -42,7 +42,7 @@ Create a lightweight UI so users can upload an image and get a prediction (Real 
 
 ## Collaboration
 
-This project was developed in collaboration with a teammate.  
+This project was developed in collaboration with a project teammate under the guidance of the UBC Data Science Club President.  
 My primary contributions included:
 
 - Designing and training the CNN architecture in TensorFlow/Keras  
